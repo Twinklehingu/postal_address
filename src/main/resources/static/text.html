@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>PostalAddresses</title>
+    <link
+      rel="stylesheet"
+      href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+    />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<script>
+	
+	$(document).ready(function() {
+	      $('#click').on('click', function() {
+	    	var data = $('#formId').serializeArray();
+	    	console.log(data);
+	    	
+	    	var searchFields = []
+	    	
+	    	/*data.forEach(el => {
+	    		var field = null
+	    		var value = null
+
+	    	    for (let key in el) {
+	    	    	
+	    	     if(field == null){
+	    	    	  field = el[key];
+	    	     }else{
+	    	    	 value = el[key];
+	    	     }
+
+	    	    } 	
+	    	    
+	    		if(value){
+	    			var ob = {
+	                        field: field,
+	                        value: value
+	                    }
+	    			console.log(ob);
+                    searchFields.push(ob); 
+	    		}
+
+	    	});
+	    	 */
+	    	 
+	    	var formData = {
+                    country: country[0],
+                    searchFields : searchFields
+     
+                 };
+	          
+	         console.log(formData);
+	        
+	    	  $.ajax( {
+	              url: '/address/search/country',
+	              type: 'GET',
+	              data: formData,
+	              dataType: "json",
+	              encode: true,
+	              success: function(data){
+	            	  
+	                  console.log("are you here");
+	              }
+	            } );
+	      })
+
+	    })
+	
+	
+	$(document).ready(function () {
+	  $( '#formId' ).submit( function( e ) {
+		  
+		  var x = document.getElementById("defaultform");
+		    x.style.display = "none";
+		  
+		  var data = new FormData(this);
+		     
+		  var op =  data.getAll("country");
+		  console.log(op);
+		   
+		 var formData = {
+		    country: op[0],
+		 };
+
+	    $.ajax( {
+	      url: '/address/addressformat',
+	      type: 'GET',
+	      data: formData,
+	      dataType: "json",
+	      encode: true,
+	      success: function(data){
+	    	  console.log(data.map);
+	    	   console.log(Object.entries(data.map));
+	    		 
+	    	   
+	    	  for (const [key, value] of Object.entries(data.map)) {
+	    		  console.log(key);  
+
+               
+              var field = '<br> <div  class="form-group"> <label for="postalcode">'+ key + ' </label> &nbsp;<input type="text" name="'+ key + '" class="form-control"/> </div>';
+               $('#formId' ).append(field);
+  
+              } 
+	      }
+	    } );
+	
+	    e.preventDefault();
+	  } );
+	});
+
+	</script>
+
+
+</head>
+  <body>
+    <div class="col-sm-6 col-sm-offset-3">
+      <h1>Form</h1>
+
+      <form id="formId" method="GET">
+        <div id="name-group" class="form-group">
+          <label for="name">Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="name"
+            name="name"
+            placeholder="Full Name"
+          />
+        </div>
+
+        <div id="email-group" class="form-group">
+          <label for="email">Email</label>
+          <input
+            type="text"
+            class="form-control"
+            id="email"
+            name="email"
+            placeholder="email@example.com"
+          />
+        </div>
+
+        <div id="country-selection" class="form-group">
+        <label for="country">Country :</label> 
+        <select name="country" id="country">
+          <option value="Empty"></option>
+          <option value="Canada">Canada</option>
+          <option value="US">US</option>
+          <option value="Mexico">Mexico</option>
+          <option value="Brazil">Brazil</option>
+          <option value="Germany">Germany</option>
+          <option value="UK">UK</option>
+          <option value="India">India</option>
+          <option value="India">India</option>
+          <option value="Spain">Spain</option>
+          <option value="South Korea">South Korea</option>
+        </select>
+        </div>
+        
+        <div id = "defaultform">
+         <div id="address" class="form-group">
+          <label for="address">Address</label>
+          <input
+            type="text"
+            class="form-control"
+            id="address"
+            name="address"
+            placeholder="address"
+          />
+        </div>
+        
+        <div id="city" class="form-group">
+          <label for="city">City</label>
+          <input
+            type="text"
+            class="form-control"
+            id="city"
+            name="city"
+            placeholder="city"
+          />
+        </div>
+        
+         <div id="postalcode" class="form-group">
+          <label for="postalcode">PostalCode</label>
+          <input
+            type="text"
+            class="form-control"
+            id="postalcode"
+            name="postalcode"
+            placeholder="postalcode"
+          />
+        </div>
+        </div>
+
+        <button type="submit" class="btn btn-success">
+          Search for format
+        </button> 
+        
+         <button id="click" type="button">Search addresses</button>    
+ 
+      </form>
+    </div>
+  </body>
+</html>

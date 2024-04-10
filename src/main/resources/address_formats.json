@@ -1,0 +1,42 @@
+[
+    {
+        "country": "US",
+        "formats": ["city","address","zipcode","state"]
+    },
+    {
+        "country": "Brazil",
+        "formats": ["city","address","postalCode","neighborhood"]
+    },
+    {
+        "country": "Canada",
+        "formats": ["city","address","postalCode","province"]
+    },
+    {
+        "country": "Germany",
+        "formats": ["city","address","postalCode"]
+    },
+    {
+        "country": "India",
+        "formats": ["city","address","postalCode"]
+    },
+    {
+        "country": "Japan",
+        "formats": ["city","address","postalCode","prefecture","district"]
+    },
+    {
+        "country": "Mexico",
+        "formats": ["city","address","postalCode","province"]
+    },
+    {
+        "country": "South Korea",
+        "formats": ["city","address","postalCode","district"]
+    },
+    {
+        "country": "Spain",
+        "formats": ["city","address","postalCode"]
+    },
+    {
+        "country": "UK",
+        "formats": ["city","address","postalCode"]
+    }
+]

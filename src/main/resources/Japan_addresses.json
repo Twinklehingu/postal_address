@@ -1,0 +1,42 @@
+[
+	{
+		"country": "Japan",
+		"city": "Kashiwa",
+		"address": "1-chome-1-118",
+		"postalCode": "277-0845",
+		"prefecture": "Chiba Prefecture",
+		"district": "Toyoshikidai"
+	},
+	{
+		"country": "Japan",
+		"city": "Kashiwa",
+		"address": "2-chome-18-18",
+		"postalCode": "277-0065",
+		"prefecture": "Chiba Prefecture",
+		"district": "Hikarigaoka"
+	},
+	{
+		"country": "Japan",
+		"city": "Noda",
+		"address": "1-chome-21-4",
+		"postalCode": "278-0026",
+		"prefecture": "Chiba Prefecture",
+		"district": "Hanai"
+	},
+	{
+		"country": "Japan",
+		"city": "Noda",
+		"address": "1-chome-21-18",
+		"postalCode": "278-0026",
+		"prefecture": "Chiba Prefecture",
+		"district": "Hanai"
+	},
+	{
+		"country": "Japan",
+		"city": "Noda",
+		"address": "1-chome-19-21",
+		"postalCode": "278-0026",
+		"prefecture": "Chiba Prefecture",
+		"district": "Hanai"
+	}
+]

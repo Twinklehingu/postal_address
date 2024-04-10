@@ -1,0 +1,2214 @@
+[
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida dos Estados 2195",
+		"postalCode": "09210-580",
+		"neighborhood": "Santa Terezinha"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Doutor Francisco Mesquita 1000",
+		"postalCode": "03153-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Benedito Jacinto Mendes 77",
+		"postalCode": "03922-000",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Costa Barros 478",
+		"postalCode": "03210-000",
+		"neighborhood": "Vila Alpina"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Palmares 1000",
+		"postalCode": "09061-410",
+		"neighborhood": "Vila Palmares"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua José Pereira da Cruz 95",
+		"postalCode": "04193-050",
+		"neighborhood": "Parque Bristol"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Engenheiro Armando Arruda Pereira 880",
+		"postalCode": "09581-170",
+		"neighborhood": "Cerâmica"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua dos Aliados 332",
+		"postalCode": "09210-210",
+		"neighborhood": "Vila São Pedro"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Alameda Martins Fontes 228",
+		"postalCode": "09210-610",
+		"neighborhood": "Santa Terezinha"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Lourenço Caetano da Silva 18",
+		"postalCode": "03227-020",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ettore Lantieri 102",
+		"postalCode": "04280-010",
+		"neighborhood": "Sacomã"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida dos Estados 2195",
+		"postalCode": "09210-580",
+		"neighborhood": "Santa Terezinha"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1775",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua das Baunilhas 33",
+		"postalCode": "03146-020",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Heloisa Pamplona 700",
+		"postalCode": "09520-310",
+		"neighborhood": "Fundação"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Felipe Camarão 500",
+		"postalCode": "098220-550",
+		"neighborhood": "Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Lino Coutinho 444",
+		"postalCode": "04207-000",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1700",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1810",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1716",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1556",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1530",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ayl Bandeira 112",
+		"postalCode": "03152-140",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1717",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua General Bagnuolo 493",
+		"postalCode": "03152-130",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1412",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Jacaraípe 478",
+		"postalCode": "03152-150",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1269",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua dos Ciclames 235",
+		"postalCode": "03146-010",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Doutor Roberto Feijó 528",
+		"postalCode": "03138-001",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 363",
+		"postalCode": "03143-001",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Barão de Juparana 72",
+		"postalCode": "03142-030",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Manaiás 130",
+		"postalCode": "03140-040",
+		"neighborhood": "Parque Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Guanhães 60",
+		"postalCode": "03140-030",
+		"neighborhood": "Parque Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Pedro de Godói 375",
+		"postalCode": "03138-010",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 450",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 390",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 500",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 562",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Inácio 876",
+		"postalCode": "03142-001",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Estrada da Lágrimas 320",
+		"postalCode": "09581-300",
+		"neighborhood": "São José"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Major Carlos Del Prete 1120",
+		"postalCode": "09530-001",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Bell Alliance 225",
+		"postalCode": "09581-420",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Bell Alliance 149",
+		"postalCode": "09581-420",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Ivai 63",
+		"postalCode": "09560-570",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Alameda Conde de Porto Alegre 840",
+		"postalCode": "09461-000",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Greenfeld 130",
+		"postalCode": "04218-100",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Estrada da Lágrimas 77",
+		"postalCode": "09642-000",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça Frederico Osanan 1",
+		"postalCode": "04286-010",
+		"neighborhood": "Moinho Velho"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Professor Vilalva Júnior 73",
+		"postalCode": "04285-010",
+		"neighborhood": "Moinho Velho"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça Frederico Ozanan 158",
+		"postalCode": "04286-010",
+		"neighborhood": "Moinho Velho"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Anatole France 76",
+		"postalCode": "04283-050",
+		"neighborhood": "Vila Moinho Velho"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Praça Mauá 1",
+		"postalCode": "09850-900",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Estrada da Lágrimas 1986",
+		"postalCode": "09580-500",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Chiquinha Gonzaga 340",
+		"postalCode": "03389-050",
+		"neighborhood": "Vila Primavera"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Avenida Doutor Rudge Ramos 790",
+		"postalCode": "09638-000",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Londres 444",
+		"postalCode": "09220-320",
+		"neighborhood": "Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Avenida Doutor Rudge Ramos 500",
+		"postalCode": "09636-000",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Oswaldo Cruz 1363",
+		"postalCode": "09540-280",
+		"neighborhood": "Oswaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Maranhão 22",
+		"postalCode": "09541-000",
+		"neighborhood": "Osvaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Maxiliano Lorenzini 20",
+		"postalCode": "09520-510",
+		"neighborhood": "Fundação"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida dos Estados 2103",
+		"postalCode": "09220-570",
+		"neighborhood": "Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Espírito Santo 1330",
+		"postalCode": "09530-701",
+		"neighborhood": "Cerâmica"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Estrada da Lágrimas 1986",
+		"postalCode": "09580-500",
+		"neighborhood": "Mauá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Professor Luíz Ignácio Anhaia Mello 6143",
+		"postalCode": "03295-100",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 34",
+		"postalCode": "03143-000",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida do Oratório 2320",
+		"postalCode": "03220-100",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Avenida Doutor Rudge Ramos 1201",
+		"postalCode": "09639-000",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Comendador Antônio Benvenuto Bataglia 143",
+		"postalCode": "09070-060",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua das Laranjeiras 1177",
+		"postalCode": "09070-561",
+		"neighborhood": "Campestre"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Marechal Malet 611",
+		"postalCode": "03140-020",
+		"neighborhood": "Parque Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Utinga 1100",
+		"postalCode": "09220-611",
+		"neighborhood": "Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Rossini 63",
+		"postalCode": "09230-490",
+		"neighborhood": "Camilópolis"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Sidnei 760",
+		"postalCode": "09230-000",
+		"neighborhood": "Camilópolis"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Martim Francisco 1884",
+		"postalCode": "09230-701",
+		"neighborhood": "Jardim Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua das Figueiras 2491",
+		"postalCode": "09080-371",
+		"neighborhood": "Campestre"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Agostinho Gomes 1941",
+		"postalCode": "04206-001",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Silva Bueno 2175",
+		"postalCode": "04208-052",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Bush 42",
+		"postalCode": "09580-120",
+		"neighborhood": "Nova Gerty"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Nelly Pelegrino 644",
+		"postalCode": "09580-140",
+		"neighborhood": "Nova Gerty"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua da Eternidade 261",
+		"postalCode": "09580-530",
+		"neighborhood": "Mauá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Guido Aliberti 1651",
+		"postalCode": "09530-200",
+		"neighborhood": "Cerâmica"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Bertolino Cunha 100",
+		"postalCode": "09540-300",
+		"neighborhood": "Osvaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Aurélia 101",
+		"postalCode": "09551-340",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua São Francisco de Assis 84",
+		"postalCode": "09560-520",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Michel Glebochi 90",
+		"postalCode": "09572-120",
+		"neighborhood": "Boa Vista"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Maranhão 192",
+		"postalCode": "09541-000",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Tiradentes 172",
+		"postalCode": "09541-220",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua João José da Silva 422",
+		"postalCode": "04191-140",
+		"neighborhood": "Vila Caraguatá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Padre Arnaldo Dante 250",
+		"postalCode": "04182-070",
+		"neighborhood": "Jardim Santa Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Amadeu Giusti 52",
+		"postalCode": "04182-080",
+		"neighborhood": "Jardim Santa Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Cisplatina 298",
+		"postalCode": "04211-040",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Labatut 781",
+		"postalCode": "04214-000",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Silva Bueno 1412",
+		"postalCode": "04208-001",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua São Silvestre 400",
+		"postalCode": "04255-080",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua São Silvestre 396",
+		"postalCode": "04255-080",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Tamuatá 176",
+		"postalCode": "04255-140",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Leandro de Souza 65",
+		"postalCode": "04256-050",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 654",
+		"postalCode": "09571-380",
+		"neighborhood": "Oswaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Paraíso 600",
+		"postalCode": "09571-200",
+		"neighborhood": "Nova Gerty"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Tomaso Tomé 270",
+		"postalCode": "09571-340",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 91",
+		"postalCode": "09571-010",
+		"neighborhood": "Oswaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 590",
+		"postalCode": "09571-000",
+		"neighborhood": "Vila Gerty"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 557",
+		"postalCode": "09571-010",
+		"neighborhood": "Oswaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Cisplatina 505",
+		"postalCode": "04211-040",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Barbinos 111",
+		"postalCode": "04240-110",
+		"neighborhood": "São João Clímaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "Sao Paulo",
+		"address": "Avenida Professor Luíz Ignácio Anhaia Mello 5441",
+		"postalCode": "03295-010",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Capivari 500",
+		"postalCode": "09580-370",
+		"neighborhood": "Mauá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua da Paz 10",
+		"postalCode": "09580-750",
+		"neighborhood": "Mauá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Ângelo Aparecido Radim 90",
+		"postalCode": "09570-420",
+		"neighborhood": "São José"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Alameda Conde de Porto Alegre 820",
+		"postalCode": "09560-000",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Tibagi 10",
+		"postalCode": "09560-400",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Juruá 50",
+		"postalCode": "09572-480",
+		"neighborhood": "Mauá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Conselheiro Lafayette 619",
+		"postalCode": "09550-000",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Capeberibe 265",
+		"postalCode": "09551-210",
+		"neighborhood": "Barcelona"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Walter Thomé 64",
+		"postalCode": "09570-320",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Walter Thomé 64",
+		"postalCode": "09570-320",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Boa Vista 200",
+		"postalCode": "09572-300",
+		"neighborhood": "Boa Vista"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Boa Vista 150",
+		"postalCode": "09572-300",
+		"neighborhood": "Boa Vista"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua São Caetano 54",
+		"postalCode": "09541-480",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Oswaldo Cruz 280",
+		"postalCode": "09541-270",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Praça da Riqueza 11",
+		"postalCode": "09550-580",
+		"neighborhood": "Prosperidade"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Laranjal 36",
+		"postalCode": "04250-100",
+		"neighborhood": "Vila Marte"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Amélia 125",
+		"postalCode": "04181150",
+		"neighborhood": "Jardim Maria Estela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Álvaro Fragoso 480",
+		"postalCode": "04223-000",
+		"neighborhood": "Vila Independência"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 1301",
+		"postalCode": "03143-003",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida José da Nóbrega Botelho 245",
+		"postalCode": "03143-003",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Castro Alves 781",
+		"postalCode": "09540-030",
+		"neighborhood": "Osvaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Dom Pedro II 2112",
+		"postalCode": "13087-901",
+		"neighborhood": "Campestre"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Martim Francisco 1270",
+		"postalCode": "09230-700",
+		"neighborhood": "Vila Lucinda"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua José Benedetti 550",
+		"postalCode": "09531-090",
+		"neighborhood": "Cerâmica"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Sílvia 1036",
+		"postalCode": "09571-300",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Sílvia 1072",
+		"postalCode": "09571-300",
+		"neighborhood": "Olímpico"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Adelaide 37",
+		"postalCode": "09572-230",
+		"neighborhood": "Boa Vista"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Campante 357",
+		"postalCode": "04224-010",
+		"neighborhood": "Vila Independência"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 420",
+		"postalCode": "09571-000",
+		"neighborhood": "Oswaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida da Casa Grande 566",
+		"postalCode": "03260-000",
+		"neighborhood": "Vila Cunha Bueno"
+	},
+	{
+		"country": "Brazil",
+		"city": "Sao Paulo",
+		"address": "Avenida Vila Ema 3881",
+		"postalCode": "03281-001",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "Sao Paulo",
+		"address": "Avenida Vila Ema 3881",
+		"postalCode": "03281-001",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "Sao Paulo",
+		"address": "Avenida Vila Ema 3881",
+		"postalCode": "03281-001",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Professor Luiz Ignácio Anhaia Mello 5701",
+		"postalCode": "03295-000",
+		"neighborhood": "Vila Graciosa"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Doutor Monteiro de Barros 110",
+		"postalCode": "03254-120",
+		"neighborhood": "Vila Elze"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Friburgo 78",
+		"postalCode": "09241-020",
+		"neighborhood": "Vila Francisco Matarazzo"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Tirana 288",
+		"postalCode": "09241-090",
+		"neighborhood": "Vila Francisco Matarazzo"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Belgrado 95",
+		"postalCode": "09241-100",
+		"neighborhood": "Vila Francisco Matarazzo"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Justino Paixão 337",
+		"postalCode": "09580-780",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 8708",
+		"postalCode": "03988-000",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça República Lituana 12",
+		"postalCode": "03140-050",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Manaiás 245",
+		"postalCode": "03140-040",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1324",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 787",
+		"postalCode": "03133-100",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Visconde de Inhaúma 1020",
+		"postalCode": "09571-380",
+		"neighborhood": "Nova Gerti"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Votorantim 335",
+		"postalCode": "09550-300",
+		"neighborhood": "Barcelona"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Estrada das Lágrimas 1046",
+		"postalCode": "04232-000",
+		"neighborhood": "Sacomã"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Tibagi 441/457",
+		"postalCode": "09560-400",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 684",
+		"postalCode": "03143-001",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 755",
+		"postalCode": "03143-003",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1235",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1212",
+		"postalCode": "03134-001",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1359",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rodovia Anchieta 1765",
+		"postalCode": "04246-002",
+		"neighborhood": "Moinho Velho"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 8491",
+		"postalCode": "03271-010",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 8491",
+		"postalCode": "03988-010",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 8671",
+		"postalCode": "03989-000",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 7911",
+		"postalCode": "03988-000",
+		"neighborhood": "Vila Fátima"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Praça São Camilo 53",
+		"postalCode": "09230-605",
+		"neighborhood": "Camilópolis"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Alfredo Maluf 550",
+		"postalCode": "09240-410",
+		"neighborhood": "Vila Alto de Santo André"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 7190",
+		"postalCode": "03374-000",
+		"neighborhood": "Vila Virginia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 8431",
+		"postalCode": "03988-010",
+		"neighborhood": "Jardim Grimaldi"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Boulevard São Caetano 545",
+		"postalCode": "09530-200",
+		"neighborhood": "Cerâmica"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Barão do Rio da Prata 5",
+		"postalCode": "04231-004",
+		"neighborhood": "Cidade Nova Heliopolis"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Rua General Craveiro Lopes 110",
+		"postalCode": "09634-010",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Rua Marambá 80",
+		"postalCode": "09736-550",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 1352",
+		"postalCode": "09540-202",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Rua Parsifal 41",
+		"postalCode": "09240-610",
+		"neighborhood": "Vila Alto de Santo André"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida dos Estados 4542",
+		"postalCode": "09220-520",
+		"neighborhood": "Santa Teresinha"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Alfredo Maluf 469",
+		"postalCode": "09240-410",
+		"neighborhood": "Vila Alto de Santo André"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Santa Rosa 79",
+		"postalCode": "09521-360",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 597",
+		"postalCode": "09520-070",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Estrada das Lágrimas 2385",
+		"postalCode": "04244-000",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Alencar Araripe 611",
+		"postalCode": "04253-000",
+		"neighborhood": "Sacomã"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Carlos Liviero 600",
+		"postalCode": "04186-100",
+		"neighborhood": "Vila Liviero"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Cláudio Ferreira Manuel 140",
+		"postalCode": "04187-200",
+		"neighborhood": "Vila Santa Tereza"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Gastão Fromenti 70",
+		"postalCode": "04187-170",
+		"neighborhood": "Vila Santa Tereza"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Heloisa Pamplona 360",
+		"postalCode": "09520-310",
+		"neighborhood": "Bairro Fundação"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Barão de Tramandaí 80",
+		"postalCode": "03207-000",
+		"neighborhood": "Vila Alpina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1809",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua das Giestas 186",
+		"postalCode": "03147-000",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Avenida São João Batista 384",
+		"postalCode": "09635-900",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Bernardo do Campo",
+		"address": "Rua Jacquey 515",
+		"postalCode": "09634-000",
+		"neighborhood": "Rudge Ramos"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Nossa Senhora da Encarnação 670",
+		"postalCode": "04180-081",
+		"neighborhood": "Jardim Maria Estela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Landizal 47",
+		"postalCode": "04256175",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Henrique Altes 57",
+		"postalCode": "04256175",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Henrique Altes 10",
+		"postalCode": "04256000",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Abrahão Mussa 313",
+		"postalCode": "04256-190",
+		"neighborhood": "Jardim Patente Novo"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Alencar Araripe 777",
+		"postalCode": "04253-000",
+		"neighborhood": "Sacomã"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Alencar Araripe 778",
+		"postalCode": "04253-000",
+		"neighborhood": "Sacomã"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Iguassu 531",
+		"postalCode": "09572-450",
+		"neighborhood": "nova gerti"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Iguassu 949",
+		"postalCode": "09572-450",
+		"neighborhood": "nova gerti"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Coronel Augusto Celso de Moura 78",
+		"postalCode": "03256-000",
+		"neighborhood": "Vila Elze"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Niterói 279",
+		"postalCode": "09510-200",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Baraldi 949",
+		"postalCode": "09510-010",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Santa Catarina 243",
+		"postalCode": "09510-120",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Santa Catarina 211",
+		"postalCode": "09510-120",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Baraldi 1002",
+		"postalCode": "09510-005",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Rio Grande do Sul 247",
+		"postalCode": "09510-020",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Baraldi 1070",
+		"postalCode": "09510-005",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Goitacazes 20",
+		"postalCode": "09510-300",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 400",
+		"postalCode": "09520-060",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 383",
+		"postalCode": "09520-070",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 547",
+		"postalCode": "09521-310",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Baraldi 1014",
+		"postalCode": "09510-010",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Rio Grande do Sul 242",
+		"postalCode": "09510-021",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Rio Grande do Sul 244",
+		"postalCode": "09510-021",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1111",
+		"postalCode": "09521-310",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Doutor Augusto de Toledo 255",
+		"postalCode": "09540-080",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Doutor Augusto de Toledo 195",
+		"postalCode": "09541-520",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Antônio Bento 140",
+		"postalCode": "09520-050",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Antônio Bento 180",
+		"postalCode": "09520-050",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Niterói 280",
+		"postalCode": "09510-200",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 477",
+		"postalCode": "09520-060",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Niterói 226",
+		"postalCode": "09510-200",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Santa Rosa 305",
+		"postalCode": "09521-360",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1447",
+		"postalCode": "09521-310",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Tiradentes 28",
+		"postalCode": "09541-220",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1135",
+		"postalCode": "09521-310",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1040",
+		"postalCode": "09521-310",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Doutor Augusto de Toledo 335",
+		"postalCode": "09541-520",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Marechal Deodoro 155",
+		"postalCode": "09541-300",
+		"neighborhood": "Santa Paula"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1150",
+		"postalCode": "09541-300",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 1180",
+		"postalCode": "09541-300",
+		"neighborhood": "Centro"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Estrada das Lágrimas 2385",
+		"postalCode": "04244-000",
+		"neighborhood": "São João Climaco"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Amazonas 2786",
+		"postalCode": "09540-204",
+		"neighborhood": "Osvaldo Cruz"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Goiás 2281",
+		"postalCode": "09521-300",
+		"neighborhood": "Santo Antônio"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 752",
+		"postalCode": "03143-000",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua General Bagnuolo 1921",
+		"postalCode": "03152-130",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Rio Duas Barras 106",
+		"postalCode": "03152-240",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Rio Duas Barras 68",
+		"postalCode": "03152-240",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Vila Prudente 127",
+		"postalCode": "03152-200",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Zacarias Alves de Melo 108",
+		"postalCode": "03153-110",
+		"neighborhood": "Jardim Ibitirama"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 420",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1409",
+		"postalCode": "03133-200",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua das Giestas 63",
+		"postalCode": "03147-000",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Montojo 18",
+		"postalCode": "03152-160",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Montojo 36",
+		"postalCode": "03152-160",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua das Giestas 263",
+		"postalCode": "03147-000",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Pedro de Godói 403",
+		"postalCode": "03138-010",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Doutor Roberto Feijó 406",
+		"postalCode": "03138-001",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 916",
+		"postalCode": "03133-100",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 915",
+		"postalCode": "03133-100",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 432",
+		"postalCode": "03143-000",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Campos Novos 448",
+		"postalCode": "03145-020",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça República Lituana 72",
+		"postalCode": "03140-050",
+		"neighborhood": "Vila Zelina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 926",
+		"postalCode": "03143-002",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 956",
+		"postalCode": "03143-002",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Manaiás 180",
+		"postalCode": "03140-040",
+		"neighborhood": "Parque Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 1077",
+		"postalCode": "03143-003",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Professor Rui Viana Braga 305",
+		"postalCode": "03264-010",
+		"neighborhood": "Vila Paulo Silas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Sales Gomes Júnior 125",
+		"postalCode": "03264-030",
+		"neighborhood": "Vila Paulo Silas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Professor Rui Viana Braga 468",
+		"postalCode": "03264-010",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Francisco Fett 560",
+		"postalCode": "03264-000",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida São Lucas 279",
+		"postalCode": "03239-000",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua São Cáio 149",
+		"postalCode": "03238-020",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Costa Barros 2100",
+		"postalCode": "03210-000",
+		"neighborhood": "Vila Alpina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Sílvia 278",
+		"postalCode": "09560-530",
+		"neighborhood": "Santa Maria"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Álvaro Fragoso 480",
+		"postalCode": "04223-000",
+		"neighborhood": "Vila Independência"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Vergueiro 9138",
+		"postalCode": "04272-300",
+		"neighborhood": "Vila Firmiano Pinto"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Francisco da Rocha 157",
+		"postalCode": "03921-130",
+		"neighborhood": "Jardim Iva"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua José Paulino dos Santos 166",
+		"postalCode": "04177480",
+		"neighborhood": "Jardim Clímax"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Amélia 127",
+		"postalCode": "04181150",
+		"neighborhood": "Jardim Maria Estela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Rizieri Negrini 52",
+		"postalCode": "04258-130",
+		"neighborhood": "Vila Arapuá"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Costa Barros 1184",
+		"postalCode": "03210-001",
+		"neighborhood": "Vila Alpina"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida São Lucas 284",
+		"postalCode": "03239-000",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Otto Shubart 196",
+		"postalCode": "03238-030",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Padre Bruno Ricco 81",
+		"postalCode": "03238-050",
+		"neighborhood": "Parque São Lucas"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Professor Luiz Ignácio Anhaia Mello 5796",
+		"postalCode": "03294-100",
+		"neighborhood": "Jardim Independência"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Professor Luiz Ignácio Anhaia Mello 5600",
+		"postalCode": "03294-100",
+		"neighborhood": "Jardim Independência"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Professor Luiz Ignácio Anhaia Mello 5657",
+		"postalCode": "03295-000",
+		"neighborhood": "Vila Graciosa"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Vila Ema 4060",
+		"postalCode": "03282-000",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Antônio de Paiva Azevedo 16",
+		"postalCode": "03284-080",
+		"neighborhood": "Vila Santa Virginia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Antônio de Paiva Azevedo 60",
+		"postalCode": "03284-080",
+		"neighborhood": "Vila Santa Virginia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Vila Ema 4100",
+		"postalCode": "03282-001",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Vila Ema 4146",
+		"postalCode": "03282-001",
+		"neighborhood": "Vila Ema"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Jacaraípe 550",
+		"postalCode": "03152-150",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Bruno Cavalcânti Feder 101",
+		"postalCode": "03152-155",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1200",
+		"postalCode": "03134-001",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida dos Estados 1155",
+		"postalCode": "09210-580",
+		"neighborhood": "Vila Metalurgica"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida Varsóvia 850",
+		"postalCode": "09220000",
+		"neighborhood": "Vila Metalúrgica"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Pedro de Godói 269",
+		"postalCode": "03138-010",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua José dos Reis 381",
+		"postalCode": "03139-040",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça Santa Helena 58",
+		"postalCode": "03138-030",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Praça Santa Helena 60",
+		"postalCode": "03138-030",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Doutor Roberto Feijó 110",
+		"postalCode": "03138-000",
+		"neighborhood": "Parque da Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Pitinga 51",
+		"postalCode": "03146-030",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua das Giestas 143",
+		"postalCode": "03147-000",
+		"neighborhood": "Vila Bela"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Zacarias Alves de Melo 22",
+		"postalCode": "03153-110",
+		"neighborhood": "Jardim Ibitirama"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Ibitirama 1820",
+		"postalCode": "03134-002",
+		"neighborhood": "Vila Prudente"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Doutor Francisco Mesquita 1139",
+		"postalCode": "03153-002",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Doutor Francisco Mesquita 1147",
+		"postalCode": "03153-002",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Doutor Francisco Mesquita 1205",
+		"postalCode": "03153-002",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Doutor Francisco Mesquita 1213",
+		"postalCode": "03153-002",
+		"neighborhood": "Quinta da Paineira"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Zelina 990",
+		"postalCode": "03143-002",
+		"neighborhood": "Vila Lúcia"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mário Augusto do Carmo 486",
+		"postalCode": "03227-070",
+		"neighborhood": "Jardim Avelino"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 562",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 550",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 538",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 450",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 480",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Avenida Líbero Badaró 464",
+		"postalCode": "09581-610",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Papa João XXIII 439",
+		"postalCode": "09581-620",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Caetano do Sul",
+		"address": "Rua Papa João XXIII 461",
+		"postalCode": "09581-620",
+		"neighborhood": "Jardim São Caetano"
+	},
+	{
+		"country": "Brazil",
+		"city": "Santo André",
+		"address": "Avenida João Pessoa 873",
+		"postalCode": "09230-650",
+		"neighborhood": "Jardim Utinga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Avenida Sapopemba 6367",
+		"postalCode": "03374-001",
+		"neighborhood": "Sapopemba"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Mil Oitocentos e Vinte e Dois 895",
+		"postalCode": "04216-001",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Lord Cockrane 820",
+		"postalCode": "04213-002",
+		"neighborhood": "Ipiranga"
+	},
+	{
+		"country": "Brazil",
+		"city": "São Paulo",
+		"address": "Rua Costa Barros 1462",
+		"postalCode": "03210001",
+		"neighborhood": "Sitio Pinheirinho"
+	}
+]
